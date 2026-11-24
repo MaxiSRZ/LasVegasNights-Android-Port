@@ -1,91 +1,151 @@
-Las Vegas Nights — Android Port
+# 🎰 Las Vegas Nights — Android Port
 
-Developed by MazathStudios
+<div align="center">
 
-An unofficial Android port of the classic Java ME game Las Vegas Nights, adapted for modern Android devices with improved graphics, customizable controls and Spanish language support.
+### 🌃 THE CITY NEVER SLEEPS 🌃
 
-Features
+**Classic Java ME gaming, reborn on Android.**
 
-- Standalone Android application.
-- No external emulator required.
-- Original gameplay and story preserved.
-- Redesigned Las Vegas-themed interface.
-- Custom purple and gold touch controls.
-- Customizable button positions and sizes.
-- Left-handed mode.
-- Native Android keyboard support.
-- Original, Scale2x and Scale4x graphics filters.
-- Selectable 30, 60 and 120 FPS rendering targets.
-- Original 4:3 aspect ratio.
-- Performance optimizations.
-- English and Spanish language support.
-- Over 1,400 translated text entries.
-- Automatic language preference saving.
-- Save game support.
+![Version](https://img.shields.io/badge/Version-1.0-gold?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FPS](https://img.shields.io/badge/FPS-Up_to_120-8A2BE2?style=for-the-badge)
+![Size](https://img.shields.io/badge/APK-13_MB-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Language-EN%20%7C%20ES-red?style=for-the-badge)
 
-System Requirements
+**Developed by MazathStudios**
 
-Requirement| Specification
-Minimum Android| Android 5.0
-Target SDK| Android 14
-Architecture| Java / Android
-Orientation| Landscape
-APK size| Approximately 13 MB
-Internet connection| Not required
+[📥 Download APK](https://github.com/MazathStudios/LasVegasNights-Android-Port/releases/latest)
 
-Installation
-
-1. Download the latest APK from the Releases section.
-2. Allow installation from unknown sources if required.
-3. Install the APK.
-4. Launch the game and select your preferred language.
-5. Enjoy Las Vegas Nights!
-
-Performance
-
-The game includes multiple graphics filters and configurable rendering frame rates.
-
-Actual performance depends on your device, display refresh rate and temperature. Higher rendering frame rates do not change the original game logic speed.
-
-Version 1.0
-
-First stable release featuring:
-
-- Redesigned Las Vegas background.
-- Improved touch controls.
-- Spanish localization.
-- Persistent language selection.
-- Graphics and performance improvements.
-- Release APK signed by MazathStudios.
-
-Future Improvements
-
-- xBRZ graphics filters.
-- Character movement interpolation.
-- Camera interpolation.
-- Additional performance improvements.
-- Localization fixes.
-
-Credits
-
-- Original game: Gameloft.
-- Android port: MazathStudios.
-- Interface redesign and localization: MazathStudios.
-
-Disclaimer
-
-This is an unofficial, non-commercial fan project created for educational and game preservation purposes.
-
-MazathStudios is not affiliated with, endorsed by, or sponsored by Gameloft.
-
-All original game assets, characters, trademarks and intellectual property belong to their respective copyright holders. This project does not claim ownership of the original game.
-
-Developer
-
-MazathStudios
-
-https://github.com/MazathStudios
+</div>
 
 ---
 
-Bringing classic mobile games back to modern Android devices.
+## 🌆 Welcome to Las Vegas
+
+Experience the classic Gameloft adventure on modern Android devices.
+
+Explore the city, meet new characters, complete missions, build relationships and discover the secrets of Las Vegas.
+
+The original experience returns with a redesigned interface, enhanced graphics, customizable controls and Spanish localization.
+
+> What happens in Vegas, stays in Vegas.
+
+---
+
+## ✨ Features
+
+### 🎮 Gameplay & Controls
+
+- Standalone Android port.
+- No external emulator required.
+- Original gameplay and storyline.
+- Customizable touchscreen controls.
+- Adjustable button size and position.
+- Left-handed mode.
+- Native Android keyboard.
+- Save game support.
+
+### 💎 Graphics & Performance
+
+- Redesigned Las Vegas-themed interface.
+- Purple and gold neon controls.
+- Original 4:3 aspect ratio.
+- Original, Scale2x and Scale4x filters.
+- 30, 60 and 120 FPS rendering options.
+- Hardware-accelerated presentation.
+- Performance optimizations.
+
+### 🌍 Localization
+
+| Language | Support |
+| :--- | :---: |
+| 🇺🇸 English | Original |
+| 🇪🇸 Spanish | 1,441 translated entries |
+
+Your preferred language is automatically saved.
+
+---
+
+## 📱 System Requirements
+
+| Specification | Requirement |
+| :--- | :--- |
+| Operating System | Android 5.0 or newer |
+| Target SDK | Android 14 |
+| APK Size | ~13 MB |
+| Orientation | Landscape |
+| Internet | Not required |
+| External Emulator | Not required |
+
+Actual FPS depends on device performance, refresh rate and temperature.
+
+---
+
+## 📥 Installation
+
+1. Download the latest APK from **Releases**.
+2. Allow installation from unknown sources.
+3. Install and launch the game.
+4. Select your preferred language.
+5. Welcome to Las Vegas!
+
+---
+
+## 🚀 Release — v1.0
+
+- [x] Android compatibility
+- [x] Custom interface
+- [x] Customizable controls
+- [x] HD scaling filters
+- [x] 120 FPS rendering option
+- [x] Spanish localization
+- [x] Persistent language selection
+- [x] MazathStudios release signature
+
+### 🔮 Future Improvements
+
+- [ ] xBRZ graphics filters
+- [ ] Character interpolation
+- [ ] Camera interpolation
+- [ ] Further performance optimizations
+- [ ] Additional localization fixes
+
+---
+
+## 🛠️ Credits
+
+| Role | Developer |
+| :--- | :--- |
+| Original Game | Gameloft |
+| Android Port | MazathStudios |
+| Interface Design | MazathStudios |
+| Spanish Localization | MazathStudios |
+| Optimization | MazathStudios |
+
+---
+
+## ⚖️ Disclaimer
+
+This is an unofficial, non-commercial fan project created for educational and game preservation purposes.
+
+All original game assets, characters, trademarks and intellectual property belong to their respective copyright holders.
+
+MazathStudios is not affiliated with or endorsed by Gameloft.
+
+---
+
+<div align="center">
+
+## 🐉 MAZATHSTUDIOS
+
+**Preserving the past. Rebuilding the classics.**
+
+[![GitHub](https://img.shields.io/badge/MazathStudios-GitHub-black?style=for-the-badge&logo=github)](https://github.com/MazathStudios)
+
+⭐ If you enjoy this project, consider starring the repository!
+
+**Made with passion for classic mobile gaming.**
+
+🎰 ♦️ ♠️ ♥️ ♣️ 🎰
+
+</div>
